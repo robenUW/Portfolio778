@@ -208,7 +208,7 @@ img {
   color: white;
 }
 .home__social-icon:hover {
-  color: var(--first-color);
+  color: white;
 }
 .home__img {
   position: absolute;
